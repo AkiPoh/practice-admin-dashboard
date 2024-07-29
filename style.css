@@ -1,0 +1,47 @@
+@font-face {
+    font-family: lato;
+    src: url(./font-Lato/Lato-Regular.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: lato;
+    src: url(./font-Lato/Lato-Italic.ttf);
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: lato;
+    src: url(./font-Lato/Lato-Bold.ttf);
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: lato;
+    src: url(./font-Lato/Lato-BoldItalic.ttf);
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+
+@font-face {
+    font-family: lato-black;
+    src: url(./font-Lato/Lato-Black.ttf);
+    font-style: normal;
+}
+
+@font-face {
+    font-family: lato-black;
+    src: url(./font-Lato/Lato-BlackItalic.ttf);
+    font-style: italic;
+}
+
+
+
+* {
+    font-family: lato, sans-serif;
+}

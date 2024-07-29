@@ -2,7 +2,7 @@
 
 ## Use on the web
 
-
+https://akipoh.github.io/practice-admin-dashboard/
 
 ## Assignment:
 
