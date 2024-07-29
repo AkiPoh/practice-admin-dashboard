@@ -1,5 +1,7 @@
 # practice-admin-dashboard
 
+Done as part of the Odin Project's JS course. Practice project completed: 29.7.2024.
+
 ## Use on the web
 
 https://akipoh.github.io/practice-admin-dashboard/
